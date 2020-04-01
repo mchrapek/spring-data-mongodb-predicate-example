@@ -1,0 +1,1 @@
+# Spring Data MongoDB Predicate and Pagination Example
